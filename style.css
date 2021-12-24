@@ -1,1 +1,44 @@
-
+body{
+    margin: 0px;
+    padding: 0px;
+    padding-left: 20px;
+    font-family: 'Roboto', sans-serif;
+    text-align: left;
+    background: linear-gradient(royalblue, skyblue);
+}
+body h1{
+    font-size: 40px;
+    font-family: cursive;
+    color:maroon; 
+}
+.box-img{
+    border-radius: 100px;
+    border-style: solid;
+    border-color: saddlebrown;
+    width: 400px;
+    height: 500px;
+    position:absolute;
+    right: 150px;
+}
+body p{
+    line-height: 20px;
+}
+body h2{
+    font-family: cursive;
+    color:maroon;
+}
+.navbar{
+   font-family: 'Franklin Gothic Medium';
+   font-style: italic;
+}
+.icons{
+    font-family: 'Franklin Gothic Medium';
+    font-style: italic;
+    display: inline-block;
+}
+.icons p{
+    display: inline-block;
+}
+.icons p i{
+    display: inline-block;
+}
